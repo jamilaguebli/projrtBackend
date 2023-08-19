@@ -1,0 +1,9 @@
+CardGroup{
+  display: flex;
+  justify-content: center;
+  padding: 4w 0;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+
